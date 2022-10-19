@@ -1,0 +1,8 @@
+{
+  "name": "App2-Hibrdas",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
